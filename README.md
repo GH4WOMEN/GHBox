@@ -2,9 +2,9 @@
 
 ## Atividades
 
-As atividades estão em arquivos .md na pasta atividades, que iremos liberar após a finalização de cada módulo.
+As atividades estão em arquivos .md na raíz do repositório, que iremos liberar após a finalização de cada módulo.
 
- - Módulo 2
+ - [Módulo 2](https://github.com/GH4WOMEN/GHBox/blob/main/AtividadeM2.md)
  - Módulo 3
  - Módulo 4
  - Módulo 5
