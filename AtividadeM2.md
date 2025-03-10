@@ -20,9 +20,9 @@ A atividade a seguir visa consolidar o conhecimento apresentado na aula, abordan
 ![image](https://github.com/user-attachments/assets/4661c003-746d-47f9-99b2-614821a45fcd)
 
 3. Na página recém aberta, configure as seguintes informações:
-   - **Repository Owner**
-   - **Repository Name**
-   - **Description**
+   - **Repository Owner** : Selecione na lista seu usuário github
+   - **Repository Name** : Nome do repositório pode ser o GH`<nome do seu usuário>`,  exe: GHgeovanams
+   - **Description**: Escreva uma descrição
    - **Defina a visibilidade do repositório:** público ou privado
      
 ![image](https://github.com/user-attachments/assets/dc823f19-f554-47f1-9564-54f8e32e00bc)
