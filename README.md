@@ -8,6 +8,7 @@ As atividades práticas iniciam a partir do módulo 2 e estão em arquivos .md n
  - [Módulo 3](https://github.com/GH4WOMEN/GHBox/blob/main/AtividadeM3.md)
  - [Módulo 4](https://github.com/GH4WOMEN/GHBox/blob/main/AtividadeM4.md)
  - [Módulo 5](https://github.com/GH4WOMEN/GHBox/blob/main/AtividadeM5.md)
+ - [Módulo 6](https://github.com/GH4WOMEN/GHBox/blob/main/AtividadeM6.md)
 
 
 > [!NOTE]
