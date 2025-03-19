@@ -1,6 +1,6 @@
-# Laboratório Módulo 7 - Criação de Templates de Issue e Pull Request
+# Laboratório Módulo 7 - Benefits of the GitHub Community
 
-## Objetivo
+## Criação de Templates de Issue e Pull Request
 
 Nesta atividade, você aprenderá a criar templates de issue e pull request para padronizar a forma como problemas são reportados e mudanças são propostas em um repositório GitHub. Isso ajudará a garantir que todas as informações necessárias sejam fornecidas, facilitando a triagem e a resolução de problemas, além de manter a qualidade do código.
 
