@@ -99,3 +99,17 @@
 1. Clique na sua foto do lado direito e em **Settings**.
 2. a seção **Access** da barra lateral, clique em  **Password and Authentication**
 3. Escolha um método de 2FA e siga as instruções fornecidas pelo GitHub para configurá-lo.
+
+## 11. Code Scanning
+
+**Objetivo:** Habilitar o code scanning e garantir a segurança do código
+[Introdução CodeQL](https://github.com/skills/introduction-to-codeql)
+ 
+## 12. Dependabot
+**Objetivo:** Garantir a segurança das dependências em seu repositório. 
+[secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain)
+ 
+## 13. Secret Scanning
+**Objetivo:** escanear o repositório por tipos de segredos, chaves de API e tokens de autenticação. 
+[Enable code scanning and secure your code with CodeQL](https://github.com/skills/introduction-to-secret-scanning)
+ 
